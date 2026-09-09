@@ -58,7 +58,7 @@ class A extends StatelessWidget {
                   ]
 
               ),
-              alignment: Alignment.center,
+              alignment: Alignment.end,
               margin: EdgeInsets.all(20),
             ),
           ],
