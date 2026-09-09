@@ -47,7 +47,7 @@ class A extends StatelessWidget {
 
             Container(
 
-              width: 300,
+              width: 299,
               height: 300,
               decoration:BoxDecoration(
                   color: Colors.red,
